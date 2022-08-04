@@ -5,9 +5,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: cadetblue;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+@font-face {
+  font-family: "Richard Signature";
+  src: local("Richard Signature"), url('./assets/Fonts/Richard Signatera.ttf');
 }
